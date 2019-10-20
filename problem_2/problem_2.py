@@ -2,8 +2,7 @@
 
 #!/bin/python3
 
-import os
-import sys
+# login for sum of numbers in array
 
 ar = [1, 2, 3, 4, 10]
 sum = 0
